@@ -1,0 +1,2 @@
+vernam-encrypted-files/*
+!vernam-encrypted-files/placeholder.txt
